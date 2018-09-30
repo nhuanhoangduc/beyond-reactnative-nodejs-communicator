@@ -1,0 +1,19 @@
+{
+  "name": "beyond-reactnative-nodejs-communicator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhuanhoangduc/beyond-reactnative-nodejs-communicator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhuanhoangduc/beyond-reactnative-nodejs-communicator/issues"
+  },
+  "homepage": "https://github.com/nhuanhoangduc/beyond-reactnative-nodejs-communicator#readme"
+}
