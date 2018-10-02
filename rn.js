@@ -39,7 +39,7 @@ nodejs.channel.addListener(
         if (ok) {
             resolve(body);
         } else {
-            reject(body);
+            reject(body.reason);
         }
 
         messageHandlers[requestId] = null;
